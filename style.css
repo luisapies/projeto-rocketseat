@@ -98,10 +98,6 @@ padding: 8px;
 outline: 8px solid var(--highlight-color);
 }
 
-.light #switch button:hover{
-  outline: 8px solid var(--highlight-color) 
-}
-
 #switch span{ 
   display: block;
  width: 64px;
